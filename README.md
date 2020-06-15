@@ -4,7 +4,7 @@
 
 #### Mentora: Lucía Benítez 
 
-#### Estudiantes: Ana Rusconi, Diego Gonzalez, Ignacio Grosso, Joel Vivas, Leonardo Rodriguez, Flor Caballero y Mariano Lucero
+#### Estudiantes: Ana Rusconi, Diego Gonzalez, Ignacio Grosso, Joel Vivas, Leonardo Rodriguez, Florencia Caballero y Mariano Lucero
 
 
 #### Descripción:  
