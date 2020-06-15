@@ -4,6 +4,9 @@
 
 #### Mentora: Lucía Benítez 
 
+#### Estudiantes: Ana Rusconi, Diego Gonzalez, Ignacio Grosso, Joel Vivas, Leonardo Rodriguez, Flor Caballero y Mariano Lucero
+
+
 #### Descripción:  
 
 Las imágenes fueron capturadas en un laboratorio del Centro de Investigación en Informática para la Ingeniería de la FRC de la UTN. Se las puede hallar en la siguiente dirección: https://github.com/diegobcuadro/dataset_ManosyGuantes
