@@ -6,9 +6,9 @@
 
 #### Estudiantes: 
 
-####  Grupo 1 : Ana Rusconi, Ignacio Grosso y Mariano Lucero
+####  Grupo 1 : Ana Rusconi, Ignacio Grosso y Mariano Lucero. Github: https://github.com/Ana1890/Deteccion-de-objetos-en-imagenes
 
-####  Grupo 2 : Diego Gonzalez, Florencia Caballero, Joel Vivas y Leonardo Rodriguez 
+####  Grupo 2 : Diego Gonzalez, Florencia Caballero, Joel Vivas y Leonardo Rodriguez. Github: https://github.com/leorodriguez/mentoria-diplodatos-grupo2 
 
 
 #### Descripción:  
